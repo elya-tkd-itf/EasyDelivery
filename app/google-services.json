@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744362707517",
+    "project_id": "easydelivery-8bde5",
+    "storage_bucket": "easydelivery-8bde5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744362707517:android:4536b268fbf407138eb854",
+        "android_client_info": {
+          "package_name": "com.example.easydelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744362707517-97ar3mapljrhnql0nmodag43csnss2o1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easydelivery",
+            "certificate_hash": "88f097704c43d0700c2251cc8853e910fcea30df"
+          }
+        },
+        {
+          "client_id": "744362707517-roa60cksjal7r2jql95p2tj7mp64cpq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrnAByfDtrtIexq4pehNHFcDjpmuj0WrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744362707517-roa60cksjal7r2jql95p2tj7mp64cpq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
